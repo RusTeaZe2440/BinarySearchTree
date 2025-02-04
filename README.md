@@ -59,7 +59,7 @@ Visit the root, traverse the left subtree, then traverse the right subtree.
 
 Traverse the left subtree, traverse the right subtree, then visit the root.
 
-![alt text](binraysearch.png)
+![Alt text](binarysearch.png)
 
 ### Key Points to Remember
 * BSTs maintain a sorted order of elements.
